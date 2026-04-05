@@ -70,7 +70,7 @@ Kupon Tycoon hiçbir kişisel veri toplamaz. Oyun tamamen cihazınızda çalış
 Oyun herhangi bir analitik, reklam veya üçüncü taraf SDK kullanmamaktadır.
 
 **Çocukların Gizliliği**
-Oyun 12 yaş ve üzeri kullanıcılar için tasarlanmıştır.
+Oyun 18 yaş ve üzeri kullanıcılar için tasarlanmıştır.
 
 **İletişim**
 kuponai.app@gmail.com
@@ -89,7 +89,7 @@ Kupon Tycoon does not collect any personal data. The game runs entirely on your 
 The game does not use any analytics, advertising, or third-party SDKs.
 
 **Children's Privacy**
-The game is designed for users aged 12 and above.
+The game is designed for users aged 18 and above.
 
 **Contact**
 kuponai.app@gmail.com
